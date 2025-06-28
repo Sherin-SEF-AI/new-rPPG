@@ -257,11 +257,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **SciPy**: Signal processing algorithms
 - **NumPy**: Numerical computing
 
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/your-username/advanced-rppg/issues)
-- **Documentation**: [Wiki](https://github.com/your-username/advanced-rppg/wiki)
-- **Email**: contact@rppg-research.com
 
 ## 🔬 Research Applications
 
