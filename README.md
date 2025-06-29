@@ -1,6 +1,7 @@
 # Advanced rPPG (Remote Photoplethysmography) Application
 
 A cross-platform Python application for remote heart rate monitoring using computer vision techniques. This advanced application provides real-time heart rate estimation, HRV analysis, and comprehensive signal quality assessment.
+![Screenshot from 2025-06-25 12-35-08](https://github.com/user-attachments/assets/6d0bb1cf-b5f8-4e0c-8cec-94cd7c1ef85e)
 
 ## 🌟 Features
 
